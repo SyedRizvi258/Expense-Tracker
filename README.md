@@ -1,4 +1,4 @@
-# Expense-Tracker
+# Expense-Tracker (MERN)
 - Developed an expense tracker using the MERN stack (MongoDB, Express, ReactJS, Node.js).
 - Implemented the backend using Node.js and Express and connected it to a MongoDB database.
 - Implemented the frontend using ReactJS to create an interactive user interface.
