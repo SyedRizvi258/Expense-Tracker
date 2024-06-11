@@ -1,4 +1,4 @@
-# Expense-Tracker (MERN)
+# Expense-Tracker (MERN Stack)
 - Built RESTful API endpoints with Node.js and Express to manage income and expense records in a MongoDB 
 database.
 - Implemented a responsive and interactive frontend using ReactJS.
